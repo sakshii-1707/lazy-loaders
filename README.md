@@ -53,7 +53,7 @@ const Home = lazy(() => import("./pages/Home"));
 
 <img width="1797" height="759" alt="image" src="https://github.com/user-attachments/assets/dd58ab24-fc39-46f9-a8e1-71cb85ad6aae" />
 
-<img width="1617" height="768" alt="image" src="https://github.com/user-attachments/assets/caa69cf4-61b2-4e5c-a28b-4460ff3f2d81" />
+<img width="1851" height="788" alt="image" src="https://github.com/user-attachments/assets/f19d5db8-a6f1-4464-9f18-abb6e0f8faf1" />
 
 
 #Experiment 2: Profile Dashboard App
