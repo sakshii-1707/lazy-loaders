@@ -50,6 +50,10 @@ src/
 const Home = lazy(() => import("./pages/Home"));
 <Suspense fallback={<div className="loader">Loading...</div>}>
 
+<img width="1797" height="759" alt="image" src="https://github.com/user-attachments/assets/dd58ab24-fc39-46f9-a8e1-71cb85ad6aae" />
+
+<img width="1617" height="768" alt="image" src="https://github.com/user-attachments/assets/caa69cf4-61b2-4e5c-a28b-4460ff3f2d81" />
+
 
 #Experiment 2: Profile Dashboard App
 🔍 Overview
@@ -118,13 +122,12 @@ npm run dev
 - Improved understanding of routing architecture and dynamic imports in React.
 - Gained hands-on experience with performance-aware frontend development.
 
+
+
 <img width="1914" height="813" alt="image" src="https://github.com/user-attachments/assets/f86af605-0a47-45a2-acf6-9642182438c5" />
 
 <img width="1437" height="844" alt="image" src="https://github.com/user-attachments/assets/f28903c5-f668-4d59-9dc6-0f7131276832" />
 
-<img width="1797" height="759" alt="image" src="https://github.com/user-attachments/assets/dd58ab24-fc39-46f9-a8e1-71cb85ad6aae" />
-
-<img width="1617" height="768" alt="image" src="https://github.com/user-attachments/assets/caa69cf4-61b2-4e5c-a28b-4460ff3f2d81" />
 
 
 
