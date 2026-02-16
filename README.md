@@ -49,6 +49,7 @@ src/
 ```js
 const Home = lazy(() => import("./pages/Home"));
 <Suspense fallback={<div className="loader">Loading...</div>}>
+```
 
 <img width="1797" height="759" alt="image" src="https://github.com/user-attachments/assets/dd58ab24-fc39-46f9-a8e1-71cb85ad6aae" />
 
